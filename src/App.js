@@ -12,7 +12,7 @@ function App() {
         <div className="App">
           <Navbar bg="primary" variant="dark" expand="lg">
             <Container>
-              <Navbar.Brand href="/">Steinzi</Navbar.Brand>
+              <Navbar.Brand href="/">Steinzii</Navbar.Brand>
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="me-auto">
