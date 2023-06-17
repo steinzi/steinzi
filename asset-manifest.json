@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/steinzi/static/css/main.073c9b0a.css",
-    "main.js": "/steinzi/static/js/main.030c6560.js",
+    "main.css": "/steinzi/static/css/main.d20202a4.css",
+    "main.js": "/steinzi/static/js/main.f5f48513.js",
     "static/js/787.0e7ee95c.chunk.js": "/steinzi/static/js/787.0e7ee95c.chunk.js",
-    "static/media/logo.svg": "/steinzi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/steinzi/index.html",
-    "main.073c9b0a.css.map": "/steinzi/static/css/main.073c9b0a.css.map",
-    "main.030c6560.js.map": "/steinzi/static/js/main.030c6560.js.map",
+    "main.d20202a4.css.map": "/steinzi/static/css/main.d20202a4.css.map",
+    "main.f5f48513.js.map": "/steinzi/static/js/main.f5f48513.js.map",
     "787.0e7ee95c.chunk.js.map": "/steinzi/static/js/787.0e7ee95c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.030c6560.js"
+    "static/css/main.d20202a4.css",
+    "static/js/main.f5f48513.js"
   ]
 }
