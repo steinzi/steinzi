@@ -1,19 +1,31 @@
 import React from 'react';
+import {Card, Col, Image, Row} from "react-bootstrap";
 
 function About() {
     return (
-        <div>
-            <h1>About Me</h1>
-            <p>
-                Welcome to my personal website! I am a passionate programmer and love building web applications using React.
-            </p>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aliquam magna vitae tellus fermentum, ut porttitor leo pharetra. Donec mauris orci, euismod vitae nisl eget, accumsan dignissim risus. In hac habitasse platea dictumst. Morbi non nulla id enim pellentesque feugiat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas auctor, turpis in fermentum fringilla, ligula leo tincidunt nunc, non commodo ipsum diam at velit. Donec varius, erat et sollicitudin placerat, urna urna convallis elit, nec finibus lacus velit non mi. Sed sagittis, purus vitae vulputate elementum, dolor quam volutpat orci, a porta ante justo non nisl. Quisque sed tempus urna.
-            </p>
-            <p>
-                If you have any questions or would like to get in touch, feel free to reach out to me through the contact page.
-            </p>
-        </div>
+        <>
+            <Row>
+                <Col >
+                    <Image width="140" src="/steinn.jpeg" roundedCircle />
+                </Col>
+            </Row>
+            <Row>
+                <Col>
+                    <Card>
+                        <Card.Body>
+                            {/*<Card.Img variant="top" src="/steinn.jpeg"  width="140" />*/}
+                            <Card.Title>About Me</Card.Title>
+                            <Card.Text>
+                                My name is Steinn Örvar Bjarnarson, but everyone calls me Steinzi.
+                            </Card.Text>
+                            <Card.Subtitle>
+                                I graduated from the University of Reykjavik in 2023 with a B.Sc. degree in Computer Science.
+                            </Card.Subtitle>
+                        </Card.Body>
+                    </Card>
+                </Col>
+            </Row>
+        </>
     );
 }
 
