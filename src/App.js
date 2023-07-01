@@ -22,7 +22,7 @@ function App() {
   };
   return (
         <div className="App">
-          <Navbar bg="primary" variant="dark" expand="lg">
+          <Navbar bg="dark" variant="dark" expand="lg">
             <Container>
               <Navbar.Brand to="/">Steinzi</Navbar.Brand>
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
