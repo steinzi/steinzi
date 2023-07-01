@@ -2,19 +2,11 @@
   "data": [
     {
       "id": 1,
-      "name": "Publication 1",
-      "url": "https://example.com/publication1",
-      "type": "Book",
-      "date": "January 1, 2021",
-      "description": "Description for Publication 1"
-    },
-    {
-      "id": 2,
-      "name": "Publication 2",
-      "url": "https://example.com/publication2",
-      "type": "Whitepaper",
-      "date": "January 1, 2021",
-      "description": "Description for Publication 2"
+      "name": "Hotsearch",
+      "url": "http://hdl.handle.net/1946/43286",
+      "type": "BSc Project",
+      "date": "January 16, 2023",
+      "description": "Managing all of the NAT records for multiple firewalls and load-balancers can become a burden, especially for managed service providers. \nThis project describes the HOTSEARCH platform, which allows for a single pane of glass (An application that displays information from multiple other application sources) viewing experience and real-time updates of NAT information across various devices. Using a containerized agent, a scraper connects to a network device via a supported API. It collects and parses the NAT information into a uniform format for consumption using a secure single-page web application. The consistent formatting of NAT information from a specific vendor's implementation allows for searching and viewing the current state of NAT in an organization without exposing access to the network devices themselves to the end users. This document also contains an extensively researched history of network address translation, located in the appendix."
     }
   ]
 }

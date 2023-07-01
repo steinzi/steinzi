@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "The Hedge 169: Network Address Translation with Steinn",
+      "url": "https://rule11.tech/hedge-169/",
+      "type": "Podcast",
+      "date": "March 9, 2023",
+      "description": "Network Address translation is one of those phrases that strikes fear into the hearts of some network engineers … and joy into the hearts of others! Steinn Bjarnarson joins us to discuss the history of NAT, its uses, its misuses, and how NAT fits into the big picture of network design today. Steinn just finished writing a paper on the history of NAT."
+    },
+    {
+      "id": 2,
+      "name": "Juniper Product Strategy Summit: MSP network automation using Juniper (AIDE) AI driven enterprise",
+      "url": "https://www.linkedin.com/posts/steinn-%C3%B6rvar-a3436613b_mistai-junipernetworks-juniper-activity-7056403591753863169-TiGI?utm_source=share&utm_medium=member_desktop",
+      "type": "Presentation/Talk",
+      "date": "April 18, 2023",
+      "description": "My presentation delved into MSP network automation and showcased how Juniper Mist's robust API and features can revolutionize enterprise networks, making them more similar to data centers. (The slides are on github, No recording)"
+    },
+    {
+      "id": 3,
+      "name": "NetDevOps Days: Network Automation Big Picture Overview 2023",
+      "url": "https://netdevopsdays.netboxlabs.com",
+      "type": "Presentation/Talk",
+      "date": "June 30, 2023",
+      "description": "When you are an MSP/DC/ISP, all rolled into one; the network automation big picture is big!\n\nThis talk explores the world of network automation from a high level. We'll look at Lego orchestration, compare imperative and declarative automation methods, and showcase how NetBox serves as our reliable Source of Truth (SoT). (Recording and slides coming soon)"
+    }
+  ]
+}
