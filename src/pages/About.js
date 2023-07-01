@@ -9,7 +9,7 @@ function About() {
         <>
             <div className="text-center m-4">
                 <Image className="d-block mx-auto mb-4" width="200" src="/steinn.jpeg" roundedCircle />
-                <h1 className="display-5 fw-bold text-body-emphasis">About me <Badge bg="danger">ChatGPT</Badge></h1>
+                <h1 className="display-5 fw-bold text-body-emphasis">About me <Badge pill bg="danger">ChatGPT</Badge></h1>
                 <Card.Body className="m-4">
                     {/*<Card.Img variant="top" src="/steinn.jpeg"  width="140" />*/}
                     <Card.Title className="fw-bold text-body-emphasis"></Card.Title>
