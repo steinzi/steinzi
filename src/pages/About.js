@@ -1,5 +1,5 @@
 import React from 'react';
-import {Badge, Button, Card, Col, Image, Row} from "react-bootstrap";
+import {Badge, Button, Card, Image} from "react-bootstrap";
 import  Linkedin from '../components/icons/linkedin-svgrepo-com.svg';
 import Twitter from '../components/icons/twitter-svgrepo-com.svg';
 import Cv from '../components/icons/cv-file-interface-symbol-svgrepo-com.svg';

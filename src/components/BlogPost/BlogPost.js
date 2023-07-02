@@ -1,5 +1,4 @@
 import React from 'react';
-import yaml from 'js-yaml';
 import blogData from './blogData.yaml';
 
 function BlogPost({ match }) {

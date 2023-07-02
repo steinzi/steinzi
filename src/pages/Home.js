@@ -1,9 +1,5 @@
 import React from 'react';
-import {Button, Card, Col, Image, Row} from "react-bootstrap";
-import Linkedin from '../components/icons/linkedin-svgrepo-com.svg';
-import Twitter from '../components/icons/twitter-svgrepo-com.svg';
-import Cv from '../components/icons/cv-file-interface-symbol-svgrepo-com.svg';
-import Github from '../components/icons/github-svgrepo-com.svg';
+import {Card, Image} from "react-bootstrap";
 
 function Home() {
     return (
