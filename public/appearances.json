@@ -19,7 +19,7 @@
     {
       "id": 3,
       "name": "NetDevOps Days: Network Automation Big Picture Overview 2023",
-      "url": "https://netdevopsdays.netboxlabs.com",
+      "url": "https://www.youtube.com/watch?v=jou6hYDddig",
       "type": "Presentation/Talk",
       "date": "June 30, 2023",
       "description": "When you are an MSP/DC/ISP, all rolled into one; the network automation big picture is big!\n\nThis talk explores the world of network automation from a high level. We'll look at Lego orchestration, compare imperative and declarative automation methods, and showcase how NetBox serves as our reliable Source of Truth (SoT). (Recording and slides coming soon)"
