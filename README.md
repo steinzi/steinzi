@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Hey Future Steinzi, you used NMP to handle the deployment etc.
+- love Past Steinzi
+
 <!--
 **steinzi/steinzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
