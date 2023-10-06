@@ -23,6 +23,22 @@
       "type": "Presentation/Talk",
       "date": "June 30, 2023",
       "description": "When you are an MSP/DC/ISP, all rolled into one; the network automation big picture is big!\n\nThis talk explores the world of network automation from a high level. We'll look at Lego orchestration, compare imperative and declarative automation methods, and showcase how NetBox serves as our reliable Source of Truth (SoT). (Recording and slides coming soon)"
+    },
+    {
+      "id": 4,
+      "name": "Harnessing the Evolution: The Expanding Horizons of AI Technology",
+      "url": "https://www.mbl.is/vidskipti/frettir/2023/09/08/gervigreindartaeknin_er_i_stodugri_motun/",
+      "type": "Presentation/Talk",
+      "date": "September 8, 2023",
+      "description": "In this presentation, I discussed the rapid advancements in artificial intelligence (AI) technology in recent years, mentioning how it can be utilized for various purposes, benefiting both companies and individuals. These insights were shared in the context of the ongoing evolution of AI technology"
+    },
+    {
+      "id": 5,
+      "name": "AI Office: The Potential Game Changer in Modern Workflow",
+      "url": "https://www.mbl.is/vidskipti/frettir/2023/10/03/gervigreindar_office_verdur_leikbreytir/",
+      "type": "Presentation/Talk",
+      "date": "October 3, 2023",
+      "description": "In this presentation, I explored the revolutionary potential of integrating Artificial Intelligence (AI) in office environments. The discussion emphasized how AI-driven office solutions can significantly enhance productivity, streamline operations, and foster innovative collaborations in the contemporary workspace."
     }
   ]
 }
