@@ -39,6 +39,14 @@
       "type": "Presentation/Talk",
       "date": "October 3, 2023",
       "description": "In this presentation, I explored the revolutionary potential of integrating Artificial Intelligence (AI) in office environments. The discussion emphasized how AI-driven office solutions can significantly enhance productivity, streamline operations, and foster innovative collaborations in the contemporary workspace."
+    },
+    {
+      "id": 6,
+      "name": "MVP (Minimum Viable Product) The keys to automation",
+      "url": "https://networkautomation.forum/autocon1#programme",
+      "type": "Presentation/Talk",
+      "date": "May 30, 2024",
+      "description": "In this presentation, I go over the journey to replace a legacy internal IPAM and onboarding Netbox. We explore some lessons learned during the network automation journey (Recording and slides coming soon)"
     }
   ]
 }
