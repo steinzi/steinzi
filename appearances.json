@@ -42,8 +42,8 @@
     },
     {
       "id": 6,
-      "name": "MVP (Minimum Viable Product) The keys to automation",
-      "url": "https://networkautomation.forum/autocon1#programme",
+      "name": "MVP (Minimum Viable Product) The keys to automation (Replacing a legacy IPAM with Netbox)",
+      "url": "https://youtu.be/XRgNm2uhntQ",
       "type": "Presentation/Talk",
       "date": "May 30, 2024",
       "description": "In this presentation, I go over the journey to replace a legacy internal IPAM and onboarding Netbox. We explore some lessons learned during the network automation journey (Recording and slides coming soon)"
