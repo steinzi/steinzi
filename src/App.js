@@ -32,6 +32,7 @@ function App() {
                   <Nav.Link onClick={() => setPage('appearances')}>Appearances</Nav.Link>
                   <Nav.Link onClick={() => setPage('publications')}>Publications</Nav.Link>
                   <Nav.Link onClick={() => setPage('about')}>About Me</Nav.Link>
+                  <Nav.Link href="https://steinzi.com/network-automation-landscape/">Network Automation Landscape</Nav.Link>
                 </Nav>
               </Navbar.Collapse>
             </Container>
