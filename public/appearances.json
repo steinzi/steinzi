@@ -42,11 +42,27 @@
     },
     {
       "id": 6,
-      "name": "MVP (Minimum Viable Product) The keys to automation (Replacing a legacy IPAM with Netbox)",
+      "name": "MVP (Minimum Viable Product) The keys to automation (Replacing a legacy IPAM with Netbox)(Autocon1)",
       "url": "https://youtu.be/XRgNm2uhntQ",
       "type": "Presentation/Talk",
       "date": "May 30, 2024",
       "description": "In this presentation, I go over the journey to replace a legacy internal IPAM and onboarding Netbox. We explore some lessons learned during the network automation journey (Recording and slides coming soon)"
+    },
+    {
+      "id": 7,
+      "name": "I downloaded netbox, now what? (Autocon2)",
+      "url": "https://youtu.be/xgS6D8KVzdQ",
+      "type": "Presentation/Talk",
+      "date": "November 22, 2024",
+      "description": "A rapid fire bonanza of things to do and not do once you download a Netbox or any NSoT."
+    },
+    {
+      "id": 8,
+      "name": "HN762: A Network Automation Roadmap",
+      "url": "https://packetpushers.net/podcasts/heavy-networking/hn762-a-network-automation-roadmap/",
+      "type": "Podcast",
+      "date": "December 20, 2024",
+      "description": "Steinn Örvar (Steinzi), a network engineer and automation enthusiast, joins the Heavy Networking podcast to discuss his network automation landscape visualization. He walks through his comprehensive web resource that maps out tools, categories, and products in the network automation world - helping engineers navigate their path from basic scripting to mature automation strategies."
     }
   ]
 }
